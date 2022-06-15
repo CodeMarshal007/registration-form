@@ -79,6 +79,10 @@ form div {
     border: 1px solid hsl(246, 25%, 77%);
 }
 
+input::placeholder{
+    padding-left: 20px;
+}
+
 .form-container input,
 .claim button {
     border-radius: 5px;
